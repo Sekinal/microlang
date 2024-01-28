@@ -1,6 +1,5 @@
 from pydantic import BaseModel
 import tiktoken
-
 class ChatMessage(BaseModel):
 
     role: str

@@ -1,2 +1,1 @@
-from .message import *
-from .conversation_message import *
+from .chat_message import *
